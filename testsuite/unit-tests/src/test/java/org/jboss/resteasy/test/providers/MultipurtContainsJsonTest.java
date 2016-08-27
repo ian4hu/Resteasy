@@ -26,7 +26,7 @@ import java.util.Map;
  * @tpSubChapter Providers
  * @tpChapter Unit tests
  * @tpTestCaseDetails Multipart Contains JSON part should not trigger Stream Closed
- * @tpSince RESTEasy 3.0.14
+ * @tpSince  RESTEasy 3.0.14
  */
 public class MultipurtContainsJsonTest {
     private static final LogMessages logger = Logger.getMessageLogger(LogMessages.class, MultipurtContainsJsonTest.class.getName());
